@@ -1,0 +1,14 @@
+setTimeout(()=>{
+    console.log("hello");
+},2000);
+setTimeout(()=>{
+    console.log("hello");
+},1000);
+console.log("hellooooooo");
+console.log("hellooooooo");
+console.log("hellooooooo");
+console.log("hellooooooo");
+console.log("hellooooooo");
+console.log("hellooooooo");
+console.log("hellooooooo");
+console.log("hellooooooo");
